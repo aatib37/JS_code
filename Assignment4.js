@@ -18,7 +18,7 @@ console.log(num1--); //11
 let x = "Aatib";
 let y = " Mansuri";
 let result = num1 + num2 + x + y;
-console.log(result); //57AatibMansuri
+console.log(result); //30Aatib Mansuri
 
 
 // 3. Take 2 Strings and 2 numbers and perform addition 
@@ -26,7 +26,7 @@ console.log(result); //57AatibMansuri
 
 const result2 = x + y + num1 + num2;
 
-console.log(result2); // AatibMansuri57
+console.log(result2); // Aatib Mansuri1020
 
 
 //4 . Write an operation to get its result as NaN. 
